@@ -14,7 +14,7 @@ export const site = {
     "https://docs.google.com/document/d/13cPnEkiojbMB566bTSjvurcYTb9Gx1D_/edit?usp=drivesdk&ouid=103598997328706200049&rtpof=true&sd=true",
   intro:
     "Passionate about building interactive web experiences, solving real-world problems through technology, and continuously learning modern software development practices.",
-  profileImage: "/assets/profile/fasiha-profile.jpeg",
+  profileImage: "/CodeAlpha_Portfolio_Website/assets/profile/fasiha-profile.jpeg",
 };
 
 export const stats = [
